@@ -1,0 +1,14 @@
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Körhenger_unitteszt.dll
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Körhenger_unitteszt.pdb
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Korhenger.exe
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Korhenger.pdb
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Korhenger.exe.config
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\obj\Debug\Körhenger_unitteszt.csproj.AssemblyReference.cache
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\obj\Debug\Körhenger_unitteszt.csproj.CoreCompileInputs.cache
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\obj\Debug\Körhenger_unitteszt.csproj.CopyComplete
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\obj\Debug\Körhenger_unitteszt.dll
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Körhenger_unitteszt\obj\Debug\Körhenger_unitteszt.pdb

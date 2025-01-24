@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
@@ -28,7 +29,7 @@ namespace AtvaltOOP
             while (decSzam > 0)
             {
                 eredmeny = decSzam % 2 + eredmeny;
-                decSzam /= 2;  
+                decSzam /= 2;
             }
         }
 
@@ -41,26 +42,29 @@ namespace AtvaltOOP
                 decSzam = Math.Abs(Convert.ToInt32(szam));
                 // Egyuttal el is tároljulk az eredményt
             }
-            catch (Exception) {
+            catch (Exception)
+            {
                 eredm = false;
             }
             return eredm;
 
         }
-        private void binarisToDecimalis(string szam) {
+        private void binarisToDecimalis(string szam)
+        {
             //Az eljárás a helyi és alaki értéki érték szorzata
             int j = 1;
-            for (int i = szam.Length - 1; i >= 0; i--) {
+            for (int i = szam.Length - 1; i >= 0; i--)
+            {
                 decSzam += Convert.ToInt32(szam[i]) * j;
                 j *= 2;
             }
         }
         public bool isBinaris(string szam)
         {
-            bool eredm=true; 
+            bool eredm = true;
             if (szam[0] == '0') //  Mivel az elvárás szerint a binaris szám első karaktere 0!
-                for (int i = 1; i < szam.Length; i++)  
-                    if (szam[i]!='0' && szam[i] != '1')
+                for (int i = 1; i < szam.Length; i++)
+                    if (szam[i] != '0' && szam[i] != '1')
                     {
                         eredm = false;
                         break;

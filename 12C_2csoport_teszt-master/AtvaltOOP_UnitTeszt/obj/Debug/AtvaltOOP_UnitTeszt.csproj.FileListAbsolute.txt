@@ -1,0 +1,14 @@
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\AtvaltOOP_UnitTeszt.dll
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\AtvaltOOP_UnitTeszt.pdb
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\AtvaltOOP.exe
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\AtvaltOOP.pdb
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\AtvaltOOP.exe.config
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\obj\Debug\AtvaltOOP_UnitTeszt.csproj.AssemblyReference.cache
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\obj\Debug\AtvaltOOP_UnitTeszt.csproj.CoreCompileInputs.cache
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\obj\Debug\AtvaltOOP_UnitTeszt.csproj.CopyComplete
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\obj\Debug\AtvaltOOP_UnitTeszt.dll
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\AtvaltOOP_UnitTeszt\obj\Debug\AtvaltOOP_UnitTeszt.pdb

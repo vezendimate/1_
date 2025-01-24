@@ -1,0 +1,7 @@
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Teszt\bin\Debug\Teszt.exe.config
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Teszt\bin\Debug\Teszt.exe
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Teszt\bin\Debug\Teszt.pdb
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Teszt\obj\Debug\Teszt.csproj.AssemblyReference.cache
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Teszt\obj\Debug\Teszt.csproj.CoreCompileInputs.cache
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Teszt\obj\Debug\Teszt.exe
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Teszt\obj\Debug\Teszt.pdb
