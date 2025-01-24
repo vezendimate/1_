@@ -1,0 +1,7 @@
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Korhenger\bin\Debug\Korhenger.exe.config
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Korhenger\bin\Debug\Korhenger.exe
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Korhenger\bin\Debug\Korhenger.pdb
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Korhenger\obj\Debug\Korhenger.csproj.AssemblyReference.cache
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Korhenger\obj\Debug\Korhenger.csproj.CoreCompileInputs.cache
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Korhenger\obj\Debug\Korhenger.exe
+C:\Users\2021152\Source\Repos\vezendimate\1_\12C_2csoport_teszt-master\Korhenger\obj\Debug\Korhenger.pdb
