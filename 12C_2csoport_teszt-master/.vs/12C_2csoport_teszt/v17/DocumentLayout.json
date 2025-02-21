@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2021152\\source\\repos\\vezendimate\\1_\\12C_2csoport_teszt-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E67C5AA-D455-48D2-BA47-EE13BE9900EF}|PontHatOOP_UnitTest\\PontHatOOP_UnitTest.csproj|c:\\users\\2021152\\source\\repos\\vezendimate\\1_\\12c_2csoport_teszt-master\\ponthatoop_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E67C5AA-D455-48D2-BA47-EE13BE9900EF}|PontHatOOP_UnitTest\\PontHatOOP_UnitTest.csproj|solutionrelative:ponthatoop_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700D91C5-2305-4581-8A6F-E5F2AAFDA019}|PontHatOOP\\PontHatOOP.csproj|c:\\users\\2021152\\source\\repos\\vezendimate\\1_\\12c_2csoport_teszt-master\\ponthatoop\\ponthat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700D91C5-2305-4581-8A6F-E5F2AAFDA019}|PontHatOOP\\PontHatOOP.csproj|solutionrelative:ponthatoop\\ponthat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700D91C5-2305-4581-8A6F-E5F2AAFDA019}|PontHatOOP\\PontHatOOP.csproj|c:\\users\\2021152\\source\\repos\\vezendimate\\1_\\12c_2csoport_teszt-master\\ponthatoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700D91C5-2305-4581-8A6F-E5F2AAFDA019}|PontHatOOP\\PontHatOOP.csproj|solutionrelative:ponthatoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PontHat.cs",
+              "DocumentMoniker": "C:\\Users\\2021152\\source\\repos\\vezendimate\\1_\\12C_2csoport_teszt-master\\PontHatOOP\\PontHat.cs",
+              "RelativeDocumentMoniker": "PontHatOOP\\PontHat.cs",
+              "ToolTip": "C:\\Users\\2021152\\source\\repos\\vezendimate\\1_\\12C_2csoport_teszt-master\\PontHatOOP\\PontHat.cs",
+              "RelativeToolTip": "PontHatOOP\\PontHat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:12:23.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\2021152\\source\\repos\\vezendimate\\1_\\12C_2csoport_teszt-master\\PontHatOOP_UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PontHatOOP_UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\2021152\\source\\repos\\vezendimate\\1_\\12C_2csoport_teszt-master\\PontHatOOP_UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "PontHatOOP_UnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:11:58.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2021152\\source\\repos\\vezendimate\\1_\\12C_2csoport_teszt-master\\PontHatOOP\\Program.cs",
+              "RelativeDocumentMoniker": "PontHatOOP\\Program.cs",
+              "ToolTip": "C:\\Users\\2021152\\source\\repos\\vezendimate\\1_\\12C_2csoport_teszt-master\\PontHatOOP\\Program.cs",
+              "RelativeToolTip": "PontHatOOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:10:55.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
